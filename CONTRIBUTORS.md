@@ -1,3 +1,8 @@
+#### Name: Liya Shaji
+ - Place: India
+ - Bio: 3rd Year CSE student, front end developer
+ - GitHub: [liyashaji](https://github.com/liyashaji)
+   
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
